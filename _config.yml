@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://vinayburugu.github.io/"
 
 ################
 # --- Logo --- #
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/California"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

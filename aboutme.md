@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, I'm Vinay Kumar Burugu
+subtitle: Software Engineer at Amazon
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Short Bio
+I currently work with AWS Deep Engines Org out of Santa Clara building on optimizing Sage Maker ML model training and inference by working with state of the art ML Compiler solutions. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Prior to this, I worked with Synopsys and Xilinx working on placement and routing products used in chip design. I worked on the infrastructure, performance analysis of the NP hard placement and routing algorithms. 
 
-What else do you need?
+I graduated from University of Cincinnati in Electrical Engineering. I did my bachelors in Electrical and Electronics Engineering at Birla Institute of Technology and Science, Pilani, Hyderabad Campus.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
